@@ -896,8 +896,17 @@
          "tilewidth":32
         }, 
         {
+         "columns":25,
          "firstgid":12841,
-         "source":"temp.tsx"
+         "image":"temp.png",
+         "imageheight":9120,
+         "imagewidth":800,
+         "margin":0,
+         "name":"temp",
+         "spacing":0,
+         "tilecount":7125,
+         "tileheight":32,
+         "tilewidth":32
         }, 
         {
          "columns":28,
